@@ -1,9 +1,7 @@
-・ラベルを二つ定義
-・textboxを二つ定義
-　AllowDropをTrueに
-　イベントを二つ登録
-　DragDrop
-　DragEnter
-　
-　
-・ボタンを一つ登録
+Difinition Two Labels
+Difinition Two textboxs
+	AllowDrop = True
+    Eventhandller 
+		DragDrop
+		DragEnter
+Difinition one Bottun
